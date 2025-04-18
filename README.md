@@ -1,2 +1,14 @@
 # private
 private source
+
+
+# license
+Copyright © 2025 Script by Will. All rights reserved.
+
+This software and associated documentation files (the "Software") are the exclusive property of Script by Will.
+
+Unauthorized copying, reproduction, modification, distribution, transmission, display, or use of this Software, in whole or in part, is strictly prohibited without the prior written consent of the copyright holder.
+
+The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the copyright holder be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+For IP registration, please contact: [https://t.me/user_legend](https://t.me/user_legend)
